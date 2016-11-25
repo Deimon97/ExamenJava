@@ -91,6 +91,7 @@ public class NumeroAtzarClass {
      * @param n the number wirter for user
      * @return the n not change is a correct and n=-1 the number is incorrect and return a write the number
      */
+    
     public int validation (int n)
     {
         if(n!=-1 && (n<1 || n>maxim)){
